@@ -16,7 +16,7 @@ Project leadership was provided by L Crypto and a subset of Contributors, Core D
 While this approach has served us well, as the Project grows and faces more legal and financial decisions and interacts with other institutions, we see a need for a more formal governance model. Moving forward The Project leadership will consist of a L crypto and Steering Council. We view this governance model as the formalization of what we are already doing, rather than a change in direction.
 
 ## Roles
-![picture alt](https://github.com/elaquiambao/eKYC-Governance/edit/main/Roles.jpg)
+![picture alt](https://github.com/elaquiambao/eKYC-Governance/blob/main/Roles.jpg)
 
 * Clients
 * Financial companies
