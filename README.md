@@ -11,9 +11,9 @@ The foundations of Project governance are:
 
 ## Corporate Structure
 
-Project leadership was provided by L Crypto and a subset of Contributors, Core Developers, whose active and consistent contributions have been recognized by their receiving “commit rights” to the Project GitHub repositories. All Project decisions are made through consensus among the Core Developers with input from the Community. The L Crypto can, but rarely chooses to, override the Core Developers and make a final decision on a matter.
+The project leadership was provided by LCrypto and a subset of Contributors, Core Developers, whose active and consistent contributions have been recognized by their receiving “commit rights” to the Project GitHub repositories. All Project decisions are made through consensus among the Core Developers with input from the Community. The LCrypto can, but rarely chooses to, override the Core Developers and make a final decision on a matter.
 
-While this approach has served us well, as the Project grows and faces more legal and financial decisions and interacts with other institutions, we see a need for a more formal governance model. Moving forward The Project leadership will consist of a L crypto and Steering Council. We view this governance model as the formalization of what we are already doing, rather than a change in direction.
+While this approach has served us well, as the Project grows and faces more legal and financial decisions and interacts with other institutions, we see a need for a more formal governance model. Moving forward The Project leadership will consist of a Lcrypto and Steering Council. We view this governance model as the formalization of what we are already doing, rather than a change in direction.
 
 ## Roles
 ![picture alt](https://github.com/elaquiambao/eKYC-Governance/blob/main/Roles.jpg)
