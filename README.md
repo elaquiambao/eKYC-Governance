@@ -21,7 +21,7 @@ While this approach has served us well, as the Project grows and faces more lega
 * Clients
 * Financial companies
 * Compliance officer
-* Authorized software developers
+* Authorized software admin/developers
 * Steering Council
 * Board member
 * Committee member
